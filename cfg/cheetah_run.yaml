@@ -1,0 +1,6 @@
+# @package _global_
+defaults:
+  - _self_  
+
+domain_name: cheetah
+task_name: run

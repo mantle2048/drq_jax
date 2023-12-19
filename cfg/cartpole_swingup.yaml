@@ -1,0 +1,7 @@
+# @package _global_
+defaults:
+  - _self_  
+
+domain_name: cartpole
+task_name: swingup
+action_repeat: 8
