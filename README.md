@@ -15,8 +15,8 @@ Jax Implementation of Data-regularized Q (DrQ)
 ![new_time_curve](https://github.com/mantle2048/drq_jax/assets/37854077/f355aa2e-75a0-453e-a9a8-c084663ed86b)
 
 ### Disclaimers
-Running the code requires approximately ≈38 GB GPU memory.
+Running the code requires ≈38 GB GPU memory.
 
-As I can access high-capacity GPU devices, so I did not implement the memory-efficient replay buffer.
+As I can access large memory GPUs, so I did not implement a memory-efficient replay buffer for image observations.
 
-Maybe leave it for future work (下次一定!)
+Leave it for future work (下次一定!)
