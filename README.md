@@ -5,7 +5,7 @@ Jax Implementation of Data-regularized Q (DrQ)
 
 ### How to run?
 
-`python drq.py -m cfg=walker_walk train_seed=0`
+`python drq.py cfg=walker_walk train_seed=0`
 
 ### Compare with [official implementation](https://github.com/denisyarats/drq)
 #### Performance
